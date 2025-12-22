@@ -4,6 +4,7 @@
 Hi! I'm Hui Shan ,a Computer Science student passion for software development and problem-solving. My goal is to gain hands-on experience in tech and contribute to innovative project.
 
 - Explore my portfolio here!: https://huishan.my.canva.site/
+- Tools: Github, devC++, VScode, Canva
 - Course: Degree in Graphic & Multimedia design
 - Position: Student
 - 📫 How to reach me **huishanhong420@gmail.com**
