@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hui shan</h1>
 <h3 align="center">A Computer Science Student exploring code & creativity</h3>
 
-Hi! I'm Hui Shan ,a Computer Science student passion for software development and problem-solving. My goal is to gain hands-on experiencein tech and contribute to innovative project.
+Hi! I'm Hui Shan ,a Computer Science student passion for software development and problem-solving. My goal is to gain hands-on experience in tech and contribute to innovative project.
 
 - Explore my portfolio here!: https://huishan.my.canva.site/
 - Course: Degree in Graphic & Multimedia design
